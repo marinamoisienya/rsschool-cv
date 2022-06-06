@@ -14,4 +14,11 @@ Belarusian State University
 Sociology
 2011 - 2017
 
+Code example:
+let eurosCount = 100;
+let dollarsCount = eurosCount * 1.06;
+console.log(dollarsCount);
+let rublesCount = dollarsCount * 2.61;
+console.log(rublesCount);
+
 English level B1
